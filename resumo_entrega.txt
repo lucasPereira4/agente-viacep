@@ -1,0 +1,17 @@
+ENTREGA – Atividade: Conectando agentes a ferramentas externas
+Aluno(s): Seu nome aqui
+Repositório público: https://github.com/KauaMorato/agente-viacep
+Data: 06/11/2026
+
+Evidências anexadas:
+[x] E01.png – Navegador mostrando o JSON da API ViaCEP (Praça da Sé)
+[x] E02.png – GitHub Desktop com o repositório agente-viacep criado
+[x] E03.png – Terminal mostrando python --version
+[x] E04.png – Terminal com (.venv) ativo e requests instalado
+[x] E05.png – Saída de teste_ferramenta.py com o dicionário da Praça da Sé
+[x] E06.png – GitHub Desktop com o commit "Cria ferramenta consultar_cep"
+[x] E07.png – Saída de main.py com os 4 CEPs de teste
+[x] E08.png – Modo interativo funcionando
+[x] E09.png – Repositório público no GitHub
+[x] E10.png – README com as respostas do exercício
+[x] E11.png – Aba History com 3+ commits
